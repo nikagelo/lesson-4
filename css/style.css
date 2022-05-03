@@ -1,8 +1,23 @@
 nav{
 	background-color: #0020F4;
 }
-a{
+.navigation{
 	list-style: none;
 	color: #FFFFFF;
 	text-decoration: none;
+	font-size: 16px;
+
+}
+.text{
+	color: #171717;
+	font-size: 16px;
+	line-height: 26px;
+}
+h2{
+	line-height: 26px;
+	font-size: 28px;
+	color: #171717;
+}
+.contact{
+	
 }
