@@ -19,5 +19,17 @@ h2{
 	color: #171717;
 }
 .contact{
-	
+	color: #171717;
+	font-size: 16px;
+	background-color: #FFFFFF;
+	border-radius: 28px;
+}
+.more{
+	background-color: #0A22F4;
+	color: #FFFFFF;	
+	font-size: 16px;
+	border-radius: 28px;
+}
+footer{
+	background-color: #0A22F4;
 }
